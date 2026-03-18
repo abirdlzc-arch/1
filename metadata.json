@@ -1,0 +1,5 @@
+{
+  "name": "HomeScene AI",
+  "description": "Generate 4 unique home interior scenes based on your product images using AI.",
+  "requestFramePermissions": []
+}
